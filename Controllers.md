@@ -27,4 +27,4 @@ Route::get('user/{id}', 'ShowProfile');
 Artisan command to generate this controller:
 ```
 php artisan make:controller ShowProfile --invokable`
-``
+```
